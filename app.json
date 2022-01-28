@@ -1,5 +1,5 @@
 {
-      "name": "Emiko Robot",
+      "name": "Kitty Robot",
       "description": "A Powerful  Telegram group management bot with cat theme.",
       "keywords": [
          "telegram",
@@ -10,7 +10,7 @@
       ],
     
    "logo":    "https://telegra.ph/file/f45590e13e39bb2c23993.jpg",  
-   "repository": "https://github.com/kennedy-ex/https://github.com/dipvyash/EmikoRobot",
+   "repository": "https://github.com/dipvyash/https://github.com/dipvyash/EmikoRobot",
    "addons": [
           {
          "options": {
